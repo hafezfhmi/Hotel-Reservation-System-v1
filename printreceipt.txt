@@ -1,0 +1,84 @@
+*************************************************************************
+*                              MUHADIB HOTEL                            *
+*                    -------------------------------                    *
+*                                                                       *
+*            HERE ARE THE CUSTOMER DETAILS BASED ON YOUR INPUT          *
+*                               06/12/20                                *
+*                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                   *
+*                     THANKS FOR YOUR COOPERATION                       *
+*                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                   *
+*************************************************************************
+
+
+No: 1
+Name: Roland
+ID: 2018414175
+Phone no.: 0127565656
+Room no.: 24
+No. of day: 2
+Price: 160
+---------------------------------------------
+No: 2
+Name: Xiaomi
+ID: 20129322
+Phone no.: 01111233
+Room no.: 25
+No. of day: 2
+Price: 160
+---------------------------------------------
+No: 3
+Name: Ugee osas
+ID: 201293828
+Phone no.: 02912775421
+Room no.: 23
+No. of day: 3
+Price: 240
+---------------------------------------------
+No: 4
+Name: Jojo
+ID: 20999999
+Phone no.: 0999999
+Room no.: 28
+No. of day: 5
+Price: 400
+---------------------------------------------
+No: 5
+Name: Marko
+ID: 2010309219
+Phone no.: 012939291
+Room no.: 22
+No. of day: 6
+Price: 480
+---------------------------------------------
+No: 6
+Name: Alen
+ID: 20129392193
+Phone no.: 012312321
+Room no.: 21
+No. of day: 6
+Price: 480
+---------------------------------------------
+No: 7
+Name: Jake
+ID: 2012382813
+Phone no.: 012323232
+Room no.: 26
+No. of day: 6
+Price: 480
+---------------------------------------------
+==============================================
+Total collection: 2400
+Average collection: Rm 342.857
+==============================================
+Occupant with the highest number of stay:  
+Marko
+Alen
+Jake
+----------------------------------------------
+Occupant with the lowest number of stay:  
+Roland
+Xiaomi
+----------------------------------------------
+No. of people with the highest stay: 3
+No. of people with the lowest stay: 2
+==============================================
